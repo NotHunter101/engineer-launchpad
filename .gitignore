@@ -1,0 +1,5 @@
+*.v2
+engineer-launchpad/.vs
+engineer-launchpad/bin
+engineer-launchpad/obj
+.vs
