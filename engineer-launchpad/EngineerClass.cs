@@ -36,7 +36,7 @@ namespace engineer_launchpad
         public static Color engineerColor = new Color(151f / 255f, 46f / 255f, 0, 1);
         public static bool engineerEnabled = true;
         public static float engineerCooldown = 80f;
-        public static int engineerCount = 2;
+        public static int engineerCount = 1;
         public static bool showEngineers = false;
     }
 }
